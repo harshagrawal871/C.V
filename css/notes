@@ -1,0 +1,15 @@
+Text-align is used to align the items in the center of the page.
+Margin is used to provide gaps in the page.
+To margin the whole page for same value there is no need of writing it 4 times.
+To position an element in the page position keyword is used.
+there can be three types of positions default one is always static.
+relative position is used to position to relate it from the parent page.
+absolute position is used when there is no requirement of any relation in the page.
+inline keyword is used to make an element in a single line until we ran out of space.
+text decoration is used to decorate the text(underline, dotted, dashed etc).
+to decorate it we use span keyword to make a sub class if an existing class.
+font- To change a font in any web page we use font-family as a keyword and in that we majorly choose serif and sen- serif and after font- family we type the font name then a comma, and in single inverted comma then serif or sen-serif according to requirement.
+for Image we can use "flaticon.com".
+for GIF's we can use "GIPHY.com".
+100% in a webpage is 16px.
+when we use float property it will float to the image according to the direction we choose but to avoid certain text to float we use clear to that class.
